@@ -1,0 +1,15 @@
+# dependencies
+/node_modules
+
+# environment variables
+.env
+
+# sqlite database file
+*.sqlite
+*.sqlite-journal
+
+# logs
+*.log
+
+# misc
+.DS_Store
